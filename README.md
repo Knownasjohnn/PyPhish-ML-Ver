@@ -3,6 +3,6 @@
 You can modify this repository 
 But please put some credits
 
-~Just put your txt file
+~Just put your own txt file
 
 Thanks 
